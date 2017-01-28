@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 50,
+                    "endOffset": 336
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 341,
+                    "endColumn": 53,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 53,
+                        "endOffset": 156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 56,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 56,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 560
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 93,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 565,
+                    "endLine": 16,
+                    "endColumn": 12,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 35,
+                    "endOffset": 924
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 36,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 929,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "C:\\Users\\lucifer13\\Desktop\\delta-bartalk\\bartalk\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 207,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 546
+                    }
+                }
+            }
+        ]
+    }
+]
